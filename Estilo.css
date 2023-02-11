@@ -1606,6 +1606,7 @@ select.input__field{
     height:49px;
     background-image:url(/build/assets/logo.743daea2.svg)
 }
+
 .header__container {
   display: flex;
   justify-content: space-between;
@@ -1619,17 +1620,10 @@ select.input__field{
   margin-left: 20px;
 }
 
-.logo-container .social-icons img,
-.page-logo {
+.logo-container .social-icons img {
   width: 50px;
   height: 50px;
 }
-
-.logo__link img {
-  width: 50px;
-  height: 50px;
-}
-
 
 
 
